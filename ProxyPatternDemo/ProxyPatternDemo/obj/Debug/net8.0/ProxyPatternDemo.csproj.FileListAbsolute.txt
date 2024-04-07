@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.exe
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.deps.json
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.runtimeconfig.json
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.dll
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.pdb
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.dll
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\refint\ProxyPatternDemo.dll
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.pdb
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ref\ProxyPatternDemo.dll
